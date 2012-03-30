@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+	<titleInfo>
+		<title>Batman</title>
+		<partNumber>701</partNumber>
+		<partName>Batman R.I.P. The Missing Chapter - Part One: The Hole in Thing</partName>
+	</titleInfo>
+	<name type="personal">
+		<namePart type="given">Dan</namePart>
+		<namePart type="family">Didio</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">editor</roleTerm>
+			<roleTerm type="code" authority="marcrelator">edt</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Mike</namePart>
+		<namePart type="family">Marts</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">editor</roleTerm>
+			<roleTerm type="code" authority="marcrelator">edt</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Tony</namePart>
+		<namePart type="family">Daniel</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">cover designer</roleTerm>
+			<roleTerm type="code" authority="marcrelator">cov</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Tony</namePart>
+		<namePart type="family">Daniel</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">artist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">art</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Grant</namePart>
+		<namePart type="family">Morrison</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">author</roleTerm>
+			<roleTerm type="code" authority="marcrelator">aut</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Ian</namePart>
+		<namePart type="family">Hannin</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">colorist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">clr</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Jared</namePart>
+		<namePart type="family">Fletcher</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">typographer</roleTerm>
+			<roleTerm type="code" authority="marcrelator">tyg</roleTerm>
+		</role>
+	</name>
+	<typeOfResource>mixed material</typeOfResource>
+	<genre authority="gmgpc" usage="primary">comic books</genre>
+	<genre authroity="lcsh">Batman (Fictitious Character)--Comic books, strips, etc.</genre>
+	<originInfo>
+		<publisher>DC Comics</publisher>
+		<dateIssued>September 2010</dateIssued>
+		<edition>1st printing</edition>
+		<issuance>serial</issuance>
+	</originInfo>
+	<physicaldescription>
+		<form authority="gmgpc">comic books</form>
+	</physicaldescription>
+	<abstract>Grant Morrison and Tony Daniel re-team to tell the exciting 2-part, untold tale of Bruce Wayne and his adventures between Batman R.I.P. and FINAL CRISIS! What happened to Batman - and Dr. Hurt for that matter - after the devastating events at the climax at the end of R.I.P.? And what secrets within this story point towards THE RETURN OF BRUCE WAYNE? Continues in Batman #702.
+	</abstract>
+	<subject>
+		<geographic>Gotham City</geographic>
+		<name type="personal">
+			<namePart type="given">Bruce</namePart>
+			<namePart type="family">Wayne</namePart>
+			<role>
+				<roleTerm type="text">Batman</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Alfred</namePart>
+			<namePart type="family">Pennyworth</namePart>
+		</name>
+		<name type="personal">
+			<namePart type="given">Simon</namePart>
+			<namePart type="family">Hurt</namePart>
+			<role>
+				<roleTerm type="text">Dr. Hurt</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Clark</namePart>
+			<namePart type="family">Kent</namePart>
+			<role>
+				<roleTerm type="text">Superman</roleTerm>
+			</role>
+		</name>		
+	</subject>
+	<recordInfo>
+		<recordCreationDate>March 28, 2012</recordCreationDate>
+	</recordInfo>
+</mods>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+	<titleInfo>
+		<title>Batman</title>
+		<partNumber>700</partNumber>
+		<partName>Time and the Batman</partName>
+	</titleInfo>
+	<name type="personal">
+		<namePart type="given">Dan</namePart>
+		<namePart type="family">Didio</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">editor</roleTerm>
+			<roleTerm type="code" authority="marcrelator">edt</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Mike</namePart>
+		<namePart type="family">Marts</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">editor</roleTerm>
+			<roleTerm type="code" authority="marcrelator">edt</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Janelle</namePart>
+		<namePart type="family">Asselin</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">editor</roleTerm>
+			<roleTerm type="code" authority="marcrelator">edt</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">David</namePart>
+		<namePart type="family">Finch</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">cover designer</roleTerm>
+			<roleTerm type="code" authority="marcrelator">cov</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Mike</namePart>
+		<namePart type="family">Mignola</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">cover designer</roleTerm>
+			<roleTerm type="code" authority="marcrelator">cov</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Grant</namePart>
+		<namePart type="family">Morrison</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">author</roleTerm>
+			<roleTerm type="code" authority="marcrelator">aut</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Ian</namePart>
+		<namePart type="family">Hannin</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">colorist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">clr</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Alex</namePart>
+		<namePart type="family">Sinclair</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">colorist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">clr</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Tony</namePart>
+		<namePart type="family">Avina</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">colorist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">clr</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Brad</namePart>
+		<namePart type="family">Anderson</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">colorist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">clr</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Peter</namePart>
+		<namePart type="family">Steigerwald</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">colorist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">clr</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Jared</namePart>
+		<namePart type="family">Fletcher</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">typographer</roleTerm>
+			<roleTerm type="code" authority="marcrelator">tyg</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Steve</namePart>
+		<namePart type="family">Wands</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">typographer</roleTerm>
+			<roleTerm type="code" authority="marcrelator">tyg</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Andy</namePart>
+		<namePart type="family">Kubert</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">artist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">art</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Frank</namePart>
+		<namePart type="family">Quitely</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">artist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">art</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Tony</namePart>
+		<namePart type="family">Daniel</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">artist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">art</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Scott</namePart>
+		<namePart type="family">Kollins</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">artist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">art</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">David</namePart>
+		<namePart type="family">Finch</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">artist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">art</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Richard</namePart>
+		<namePart type="family">Friend</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">artist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">art</roleTerm>
+		</role>
+	</name>	
+	<typeOfResource>mixed material</typeOfResource>
+	<genre authority="gmgpc" usage="primary">comic books</genre>
+	<genre authroity="lcsh">Batman (Fictitious Character)--Comic books, strips, etc.</genre>
+	<originInfo>
+		<publisher>DC Comics</publisher>
+		<dateIssued>August 2010</dateIssued>
+		<edition>1st printing</edition>
+		<issuance>serial</issuance>
+	</originInfo>
+	<physicaldescription>
+		<form authority="gmgpc">comic books</form>
+	</physicaldescription>
+	<abstract>Grant Morrison returns to BATMAN with this overspecial sized! And he's brought an all-star roster of artists along with him including Andy Kubert , Tony Daniel and Frank Quietly to celebrate this milestone 700th issue featuring stories spotlighting each of the Batmen from different eras - Bruce Wayne, Dick Grayson and Damian Wayne. You won't want to miss this blockbuster story that paves the way for the return of Bruce Wayne.</abstract>
+	<subject>
+		<geographic>Gotham City</geographic>
+		<name type="personal">
+			<namePart type="given">Bruce</namePart>
+			<namePart type="family">Wayne</namePart>
+			<role>
+				<roleTerm type="text">Batman</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Dick</namePart>
+			<namePart type="family">Grayson</namePart>
+			<role>
+				<roleTerm type="text">Batman</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Damian</namePart>
+			<namePart type="family">Wayne</namePart>
+			<role>
+				<roleTerm type="text">Batman</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Terry</namePart>
+			<namePart type="family">McGinnis</namePart>
+			<role>
+				<roleTerm type="text">Batman</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Brane</namePart>
+			<role>
+				<roleTerm type="text">Batman 3000</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Brane</namePart>
+			<namePart type="family">Taylor</namePart>
+			<role>
+				<roleTerm type="text">Batman 3051</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Batman One Million</namePart>
+			<role>
+				<roleTerm type="text">Batman One Million</roleTerm>
+			</role>
+		</name>		
+	</subject>
+	<recordInfo>
+		<recordCreationDate>March 28, 2012</recordCreationDate>
+	</recordInfo>
+</mods>
+
+

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+	<titleInfo>
+		<title>Batman</title>
+		<subtitle>The Dark Knight Returns</subtitle>
+	</titleInfo>
+	<name type="personal">
+		<namePart type="given">Frank</namePart>
+		<namePart type="family">Miller</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">author</roleTerm>
+			<roleTerm type="code" authority="marcrelator">aut</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Klaus</namePart>
+		<namePart type="family">Janson</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">artist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">art</roleTerm>
+		</role>
+	</name>
+	<name type="personal">
+		<namePart type="given">Lynn</namePart>
+		<namePart type="family">Varley</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">colorist</roleTerm>
+			<roleTerm type="code" authority="marcrelator">clr</roleTerm>
+		</role>
+		<name type="personal">
+		<namePart type="given">John</namePart>
+		<namePart type="family">Costanza</namePart>
+		<role>
+			<roleTerm type="text" authority="marcrelator">typographer</roleTerm>
+			<roleTerm type="code" authority="marcrelator">tyg</roleTerm>
+		</role>
+	</name>
+	</name>
+	<typeOfResource>mixed material</typeOfResource>
+	<genre authority="lcsh" usage="primary">graphic novels</genre>
+	<genre authroity="lcsh">Batman (Fictitious Character)--Comic books, strips, etc.</genre>
+	<originInfo>
+		<publisher>DC Comics</publisher>
+		<dateIssued>May 1, 1997</dateIssued>
+		<edition>10th aniversary ed.</edition>
+		<issuance>monograph</issuance>
+	</originInfo>
+	<physicaldescription>
+		<form authority="gmgpc">comic books</form>
+	</physicaldescription>
+	<abstract>Grant Morrison returns to BATMAN with this overspecial sized! And he's brought an all-star roster of artists along with him including Andy Kubert , Tony Daniel and Frank Quietly to celebrate this milestone 700th issue featuring stories spotlighting each of the Batmen from different eras - Bruce Wayne, Dick Grayson and Damian Wayne. You won't want to miss this blockbuster story that paves the way for the return of Bruce Wayne.</abstract>
+	<subject>
+		<geographic>Gotham City</geographic>
+		<name type="personal">
+			<namePart type="given">Bruce</namePart>
+			<namePart type="family">Wayne</namePart>
+			<role>
+				<roleTerm type="text">Batman</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart type="given">Carrie</namePart>
+			<namePart type="family">Kelley</namePart>
+			<role>
+				<roleTerm type="text">Robin</roleTerm>
+			</role>
+		</name>
+	</subject>
+	<recordInfo>
+		<recordCreationDate>March 28, 2012</recordCreationDate>
+	</recordInfo>
+</mods>

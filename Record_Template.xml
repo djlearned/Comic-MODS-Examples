@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+	<titleInfo>
+		<title><!--TODO--></title>
+		<subTitle><!--TODO--></subTitle>
+		<partNumber><!--TODO--></partNumber>
+		<partName><!--TODO--></partName>
+	</titleInfo>
+	<name type="personal">
+		<namePart><!--TODO--></namePart>
+		<role>
+			<roleTerm type="text"><!--TODO--><roleTerm>
+		</role>
+	</name>
+	<typeOfResource>mixed material</typeOfResource>
+	<genre authority="gmgpc">comic books</genre>
+	<genre authroity="lcsh"><!--TODO--></genre>
+	<originInfo>
+		<publisher><!--TODO--></publisher>
+		<dateIssued><!--TODO--></dateIssued>
+		<edition><!--TODO--></edition>
+		<issuance>serial</issuance>
+	</originInfo>
+	<physicaldescription>
+		<form authority="gmgpc">comic books</form>
+	</physicaldescription>
+	<abstract><!--TODO--></abstract>
+	<subject>
+		<geographic><!--TODO--></geographic>
+		<temporal><!--TODO--></temporal>
+		<name type="personal">
+			<namePart><!--TODO--></namePart>
+			<role>
+				<roleTerm type="text"><!--TODO--><roleTerm>
+			</role>
+		</name>
+	</subject>
+	<recordInfo>
+		<recordContentSource><!--TODO--></recordContentSource>
+		<recordCreationDate><!--TODO--></recordCreationDate>
+	</recordInfo>
+</mods>
+
+
